@@ -1,1 +1,1 @@
-this is a test repository changed in git
+this is a test repository
